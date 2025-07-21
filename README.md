@@ -1,1 +1,1 @@
-Hi there , Aj Moku Ki MAMA ka operate tha !
+Hi there ! I'm trying to learn Git and GitHub.
